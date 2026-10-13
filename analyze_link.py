@@ -139,5 +139,5 @@ def analyze_instagram_link(post_url):
 
 
 if __name__ == '__main__':
-  url = input('Paste Instagram Post URL: ')
+  url = input('Paste Insta Post URL: ')
   analyze_instagram_link(url)
